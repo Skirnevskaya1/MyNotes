@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514921062269",
+    "project_id": "mynotes-310af",
+    "storage_bucket": "mynotes-310af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514921062269:android:8152eb8f9698ae07667614",
+        "android_client_info": {
+          "package_name": "com.homework.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514921062269-vbpa3sutrjni9ofgdieq912bq5g9p9ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35ABdYP0Tqe_IMwQycKMF9pqkQBfBnSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514921062269-vbpa3sutrjni9ofgdieq912bq5g9p9ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

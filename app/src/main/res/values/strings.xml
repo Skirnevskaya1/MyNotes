@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cansel_button">Отмена</string>
+    <string name="add_button">Добавить</string>
+    <string name="add_notes">Добавить заметку</string>
+    <string name="title">Title</string>
+    <string name="start_typing">Start typing</string>
+    <string name="snack_bar_text">Отменить удаление?</string>
+    <string name="snack_bar_undo">Отменить</string>
+    <string name="about">О кнопке</string>
+    <string name="exit">Покинуть</string>
+    <string name="drawer_header">хэдер</string>
+    <string name="navigation_drawer_close">close drawer</string>
+    <string name="navigation_drawer_open">open drawer</string>
+    <string name="add_item">Добавить заметку</string>
+    <string name="cat">кот</string>
+</resources>
